@@ -4,8 +4,11 @@ An R package for computing efficient versions of the Adjusted Concordance Index 
 
 # Installation
 library(devtools)
+
 install_github("its-likeli-jeff/FARI")
+
 library(FARI)
+
 #two functions, aci(a,b) and fari(a,b)
 
 
