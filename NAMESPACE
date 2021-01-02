@@ -1,0 +1,4 @@
+useDynLib(FARI, sumabsallsortedpairs)
+importFrom("stats", "dist")
+export(fari)
+export(aci)

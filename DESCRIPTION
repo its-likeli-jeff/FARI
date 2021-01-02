@@ -1,0 +1,9 @@
+Package: FARI
+Type: Package
+Title: Computes four agreement measures on fuzzy clustering partitions
+Version: 0.1
+Date: 2021-01-01
+Author: Jeffrey L. Andrews and Ryan Browne
+Maintainer: <jeff.andrews@ubc.ca>
+Description: Provides computationally efficient approaches for two fuzzy generalizations of the Rand index (the Frobenius Rand index and the normalized degree of concordance) and two fuzzy generalizations of the adjusted Rand index (the Frobenius adjusted Rand index and the adjusted concordance index).
+License: GPL-3
