@@ -13,7 +13,7 @@ library(FARI)
 
 
 # References
-Andrews, Jeffrey L., Ryan Browne, and Chelsey Hvingelby. "On assessments of agreement between fuzzy partitions". Submitted.
+Andrews, Jeffrey L., Ryan Browne, and Chelsey Hvingelby. Submitted.
 
 D'Ambrosio, Antonio, Sonia Amodio, Carmela Iorio, Giuseppe Pandolfo, and Roberta Siciliano. "Adjusted Concordance Index: an Extension of the Adjusted Rand Index to Fuzzy Partitions." Journal of Classification (2020): 1-17.
 
